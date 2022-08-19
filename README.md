@@ -6,7 +6,7 @@ Polling App built on [Next.js](https://nextjs.org/) and [Macrometa GDN](https://
 
 ### One-Click Deploy
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FMacrometacorp%2Fdemo-vercel-pollingapp&project-name=macrometa-polling-app&repo-name=macrometa-polling-app&demo-title=Macrometa%20Polling%20App&integration-ids=oac_jTz48t3BK5HRhsFuCy7Ppi83)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FMacrometacorp%2Fdemo-vercel-pollingapp&project-name=macrometa-polling-app&repo-name=macrometa-polling-app&demo-title=Macrometa%20Polling%20App&demo-description=Take%20Polls%20using%20Macrometa%20Polling%20APP&demo-image=https%3A%2F%2Fgithub.com%2FMacrometacorp%2Fdemo-vercel-pollingapp%2Fblob%2F9df4f5fe97a238bdb5f418bd2eddf378edc7b837%2Fpublic%2Fmacrometa-polling-app.png&integration-ids=oac_jTz48t3BK5HRhsFuCy7Ppi83)
 
 ## Macrometa GDN Setup
 
