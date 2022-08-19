@@ -19,16 +19,14 @@ vercel_polls (global document)
 vercel_page_content (global document)
 ```
 
-Refer to this [:link: Query](./query-workers.md) to get the content for each query worker.
-
 ## Run it Locally
 
 ### Prerequisites
 
 Make sure you have:
 
--   created all the resources in Macrometa GDN Setup section, and
--   generated an API key with the corresponding permissions.
+-   Created all the resources in Macrometa GDN Setup section, and
+-   Generated an API key with the corresponding permissions.
 -   Run this [:link: Query](./query-workers.md) in [:link: Macrometa GDN Console](https://gdn.paas.macrometa.io/#queries)
 
 Also, you will have to create a `.env` from `.env.sample` file to store your environment variables. This file must have the following env. variables:
